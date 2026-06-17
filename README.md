@@ -51,13 +51,13 @@ What I like building: concrete, testable and well-documented systems, with a rea
     </td>
     <td width="50%" valign="top">
       <h3>Robotics & embedded systems</h3>
-      <p>ROS2, DDS / XRCE-DDS, micro-ROS, embedded systems, ARM Cortex-M, robotic communication, integration and real-time constraints.</p>
+      <p>ROS2, DDS / XRCE-DDS, micro-ROS, embedded systems, ARM Cortex-M, robotic communication, low-level register optimization, integration and real-time constraints.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Software engineering</h3>
-      <p>Python, C, C++, Assembly, VHDL, SQL, MATLAB, FastAPI, React, Vite, Docker, Git, Linux, tests, APIs, backend architecture, low-level register optimization, persistence and frontend/backend integration.</p>
+      <p>Python, C, C++, Assembly, VHDL, SQL, MATLAB, FastAPI, React, Vite, Docker, Git, Linux, tests, APIs, backend architecture, persistence and frontend/backend integration.</p>
     </td>
     <td width="50%" valign="top">
       <h3>Cloud & operations</h3>
