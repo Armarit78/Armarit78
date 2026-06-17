@@ -45,21 +45,21 @@ I am looking for a full-time position starting in November 2026, focused on AI, 
   <tr>
     <td width="50%" valign="top">
       <h3>AI & data</h3>
-      <p>Deep learning, computer vision, 3D segmentation, detection, tracking, reinforcement learning, LLMs, RAG, LangGraph agents, intent routing and model evaluation.</p>
+      <p>Machine Learning, Deep Learning, Computer Vision, 3D segmentation, object detection and tracking, Reinforcement Learning, LLMs, RAG, LangGraph agents, intent routing, model evaluation, training, fine-tuning and AI system design.</p>
     </td>
     <td width="50%" valign="top">
       <h3>Robotics & embedded systems</h3>
-      <p>ROS 2, DDS/XRCE-DDS, micro-ROS, embedded systems, ARM Cortex-M, Arduino, Raspberry Pi, robotic communications, low-level register optimization, system integration, and real-time constraints.</p>
+      <p>ROS 2, DDS/XRCE-DDS, micro-ROS, embedded systems, ARM Cortex-M, Arduino, Raspberry Pi, robotic communications, low-level register optimization, system integration and real-time constraints.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Software engineering</h3>
-      <p>Python, C, C++, Assembly, VHDL, SQL, MATLAB, FastAPI, React, Vite, Docker, Git, Linux, tests, APIs, backend architecture, persistence and frontend/backend integration.</p>
+      <p>Python, C, C++, Assembly, VHDL, SQL, MATLAB, FastAPI, React, Vite, Docker, Git, Linux, testing, REST APIs, backend architecture, database design, data persistence, CI/CD and frontend-backend integration.</p>
     </td>
     <td width="50%" valign="top">
       <h3>Cloud & operations</h3>
-      <p>AIOps, DevSecOps, observability, cloud reliability, IT operations automation, security practices and prototype industrialization.</p>
+      <p>AIOps, DevSecOps, observability, cloud reliability, IT operations automation, security best practices, monitoring, MLOps workflows, and prototype-to-production industrialization.</p>
     </td>
   </tr>
 </table>
