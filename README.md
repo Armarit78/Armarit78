@@ -33,8 +33,6 @@ I am a final-year engineering student at IPSA, specializing in embedded systems 
 
 I am looking for a full-time position starting in November 2026, focused on AI, computer vision, robotics, embedded systems and intelligent systems.
 
-What I like building: concrete, testable and well-documented systems, with a real architectural logic behind the prototype.
-
   </td>
   </tr>
 </table>
@@ -51,7 +49,7 @@ What I like building: concrete, testable and well-documented systems, with a rea
     </td>
     <td width="50%" valign="top">
       <h3>Robotics & embedded systems</h3>
-      <p>ROS2, DDS / XRCE-DDS, micro-ROS, embedded systems, ARM Cortex-M, robotic communication, low-level register optimization, integration and real-time constraints.</p>
+      <p>ROS 2, DDS/XRCE-DDS, micro-ROS, embedded systems, ARM Cortex-M, Arduino, Raspberry Pi, robotic communications, low-level register optimization, system integration, and real-time constraints.</p>
     </td>
   </tr>
   <tr>
