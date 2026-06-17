@@ -1,18 +1,16 @@
 <div align="center">
 
-# Guillaume Poret
-
-### IA, vision par ordinateur, robotique & systèmes embarqués
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0A66C2,45:00A6A6,100:FF6B35&text=Guillaume%20Poret&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=44&desc=AI%20%7C%20Computer%20Vision%20%7C%20Robotics%20%7C%20Embedded%20Systems&descAlign=50&descAlignY=58&animation=fadeIn" alt="Header background" />
 
 <p>
   <a href="mailto:guillaume.poret@student-cs.fr">
-    <img src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-guillaume.poret%40student--cs.fr-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/A_REMPLACER">
-    <img src="https://img.shields.io/badge/LinkedIn-Profil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/guillaume-poret-b61412267/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-00A6A6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="CV_2026-06-10_Guillaume_PORET_FR.pdf">
-    <img src="https://img.shields.io/badge/CV-PDF-FF6B35?style=for-the-badge&logo=readme&logoColor=white" alt="CV PDF" />
+  <a href="./CV_2026-06-10_Guillaume_PORET_ENG.pdf">
+    <img src="https://img.shields.io/badge/Resume-PDF-FF6B35?style=for-the-badge&logo=readme&logoColor=white" alt="Resume PDF" />
   </a>
 </p>
 
@@ -23,53 +21,53 @@
 
 </div>
 
----
-
-## Bonjour
-
-Je suis étudiant ingénieur en dernière année à l'IPSA, filière systèmes embarqués et télécommunications, en double diplôme Intelligence Artificielle à CentraleSupélec.
-
-Je cherche un CDI à partir de novembre 2026 sur des sujets à l'intersection de l'IA, de la vision par ordinateur, de la robotique, des systèmes embarqués et des systèmes intelligents.
-
-Ce que j'aime construire : des systèmes concrets, testables, documentés, avec une vraie logique d'architecture derrière le prototype.
-
----
-
-## Ce que je sais faire
+<br>
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>IA & data</h3>
-      <p>
-        Deep learning, computer vision, segmentation 3D, détection, tracking, reinforcement learning, LLMs, RAG, agents LangGraph, routage d'intentions, évaluation de modèles.
-      </p>
+    <td>
+
+## Hi
+
+I am a final-year engineering student at IPSA, specializing in embedded systems and telecommunications, and pursuing a double degree in Artificial Intelligence at CentraleSupélec.
+
+I am looking for a full-time position starting in November 2026, focused on AI, computer vision, robotics, embedded systems and intelligent systems.
+
+What I like building: concrete, testable and well-documented systems, with a real architectural logic behind the prototype.
+
+  </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">What I Work With</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AI & data</h3>
+      <p>Deep learning, computer vision, 3D segmentation, detection, tracking, reinforcement learning, LLMs, RAG, LangGraph agents, intent routing and model evaluation.</p>
     </td>
-    <td width="50%">
-      <h3>Robotique & embarqué</h3>
-      <p>
-        ROS2, DDS / XRCE-DDS, micro-ROS, systèmes embarqués, ARM Cortex-M, communication robotique, intégration et contraintes temps réel.
-      </p>
+    <td width="50%" valign="top">
+      <h3>Robotics & embedded systems</h3>
+      <p>ROS2, DDS / XRCE-DDS, micro-ROS, embedded systems, ARM Cortex-M, robotic communication, integration and real-time constraints.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>Software engineering</h3>
-      <p>
-        Python, C, C++, SQL, FastAPI, React, Vite, Docker, Git, Linux, tests, API, architecture backend, persistance et intégration frontend/backend.
-      </p>
+      <p>Python, C, C++, SQL, FastAPI, React, Vite, Docker, Git, Linux, tests, APIs, backend architecture, persistence and frontend/backend integration.</p>
     </td>
-    <td width="50%">
-      <h3>Cloud & opérations</h3>
-      <p>
-        AIOps, DevSecOps, observabilité, fiabilité cloud, automatisation des opérations IT, pratiques de sécurité et industrialisation.
-      </p>
+    <td width="50%" valign="top">
+      <h3>Cloud & operations</h3>
+      <p>AIOps, DevSecOps, observability, cloud reliability, IT operations automation, security practices and prototype industrialization.</p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Python-0A66C2?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -82,98 +80,61 @@ Ce que j'aime construire : des systèmes concrets, testables, documentés, avec 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
----
+<br>
 
-## Projets à explorer
+<h2 align="center">Featured Projects</h2>
 
-### KyberIA - assistant financier intelligent full-stack
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>KyberIA</h3>
+      <p><strong>Full-stack intelligent financial assistant</strong></p>
+      <p>Application combining a FastAPI backend, React/Vite frontend, LangGraph agent, Mistral, Supabase/Postgres and financial tools. The project covers authentication, chat persistence, intelligent intent routing, financial entity resolution and a guided portfolio construction flow.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>React</code> <code>LangGraph</code> <code>Mistral</code> <code>Supabase</code> <code>yfinance</code> <code>pytest</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Real-Time Maritime Tracking</h3>
+      <p><strong>YOLO, KCF, Kalman & ReID</strong></p>
+      <p>Computer vision prototype for detecting and tracking maritime objects from images, videos or camera streams. The pipeline combines YOLOv8 / YOLO11 training, ONNX export, optimized inference and hybrid tracking with KCF, Kalman prediction and histogram-based re-identification.</p>
+      <p><code>Python</code> <code>YOLO</code> <code>ONNXRuntime</code> <code>OpenCV</code> <code>Kalman</code> <code>Tracking</code> <code>Computer Vision</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>UNet3D Liver & Tumor Segmentation</h3>
+      <p>Complete 3D medical segmentation pipeline for liver and tumor segmentation with MONAI and PyTorch. The project includes dataset verification, reproducible splitting, progressive UNet3D model improvements, sliding-window inference, TTA, anatomical post-processing and synthetic 3D tumor augmentation.</p>
+      <p><code>PyTorch</code> <code>MONAI</code> <code>CUDA</code> <code>Medical Imaging</code> <code>3D Segmentation</code> <code>Data Augmentation</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>HERMES</h3>
+      <p><strong>Agentic Multimodal RAG</strong></p>
+      <p>Multimodal RAG pipeline on ViDoRe combining text retrieval, visual retrieval with ColPali, hybrid fusion and a LangGraph agent. The project includes indexing, fusion alpha tuning, nDCG@5 evaluation and an agentic CLI interface.</p>
+      <p><code>RAG</code> <code>Multimodal Retrieval</code> <code>ColPali</code> <code>Qdrant</code> <code>LangGraph</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>ROS2 Micro XRCE-DDS Communication</h3>
+      <p>micro-ROS / ROS2 integration project using Micro XRCE-DDS to connect resource-constrained embedded systems with the ROS2 ecosystem. The system uses a client-agent architecture, UDP transport and complex ROS messages such as PointCloud2.</p>
+      <p><code>ROS2</code> <code>micro-ROS</code> <code>XRCE-DDS</code> <code>UDP</code> <code>Embedded Systems</code> <code>Robotics</code></p>
+    </td>
+  </tr>
+</table>
 
-Application combinant backend FastAPI, frontend React/Vite, agent LangGraph, Mistral, Supabase/Postgres et outils financiers. Le projet couvre l'authentification, la persistance de chats, le routage intelligent des intentions, la résolution d'entités financières et un parcours de construction de portefeuille.
+<br>
 
-`Python` `FastAPI` `React` `LangGraph` `Mistral` `Supabase` `yfinance` `pytest`
+<h2 align="center">Other Important Projects</h2>
 
-**Pourquoi il est intéressant :** architecture produit complète, logique agentique, séparation claire entre conversation, outils métier et moteur de portefeuille.
-
----
-
-### Suivi maritime temps réel - YOLO, KCF, Kalman & ReID
-
-Prototype de vision par ordinateur pour détecter et suivre des objets maritimes sur images, vidéos ou flux caméra. Le pipeline combine entraînement YOLOv8 / YOLO11, export ONNX, inférence optimisée et tracking hybride avec KCF, prédiction Kalman et ré-identification par histogramme.
-
-`Python` `YOLO` `ONNXRuntime` `OpenCV` `Kalman` `Tracking` `Computer Vision`
-
-**Résultat notable :** sur une séquence de test documentée, 61 corrections YOLO, aucune perte de tracking et 424 images traitées uniquement par le tracker.
-
----
-
-### UNet3D Liver & Tumor Segmentation
-
-Pipeline complet de segmentation médicale 3D du foie et des tumeurs avec MONAI et PyTorch. Le projet inclut vérification dataset, split reproductible, amélioration progressive de modèles UNet3D, inférence sliding window, TTA, post-processing anatomique et augmentation 3D de tumeurs synthétiques.
-
-`PyTorch` `MONAI` `CUDA` `Medical Imaging` `3D Segmentation` `Data Augmentation`
-
-**Résultat notable :** la version finale améliore le Tumor Dice de 0.3785 à 0.4754 et réduit fortement les faux positifs anatomiquement incohérents.
-
----
-
-### HERMES - Agentic Multimodal RAG
-
-Pipeline RAG multimodal sur ViDoRe combinant retrieval texte, retrieval visuel avec ColPali, fusion hybride et agent LangGraph. Le projet inclut l'indexation, le tuning du paramètre de fusion, l'évaluation nDCG@5 et une interface CLI agentique.
-
-`RAG` `Multimodal Retrieval` `ColPali` `Qdrant` `LangGraph` `Evaluation`
-
-**Pourquoi il est intéressant :** il relie recherche d'information, vision-language retrieval, évaluation et orchestration agentique.
-
----
-
-### ROS2 Micro XRCE-DDS Communication
-
-Projet d'intégration micro-ROS / ROS2 utilisant Micro XRCE-DDS pour faire communiquer des systèmes embarqués contraints avec l'écosystème ROS2. Le système s'appuie sur une architecture client-agent, un transport UDP et des messages ROS complexes comme PointCloud2.
-
-`ROS2` `micro-ROS` `XRCE-DDS` `UDP` `Embedded Systems` `Robotics`
-
-**Pourquoi il est intéressant :** il traite une vraie problématique d'intégration robotique : communication légère, multi-machine et compatible avec ROS2.
-
----
-
-## Autres projets Important
-
-| Projet | Sujet | Stack / notions |
+| Project | Topic | Stack / concepts |
 |---|---|---|
-| SlayTheSpire RL | Agent PPO pour apprendre le combat dans Slay the Spire | RL, PPO, reward shaping, action masking |
-| CaptionCrafter | API et CLI pour analyse image, OCR, génération de légendes et filtres | FastAPI, Streamlit, OpenCV, Tesseract, Mistral |
-| GoPicasso | Robot peintre interprétant des SVG et corrigeant sa trajectoire | Python, parsing SVG, graphes, asservissement, GoPiGo |
-| Viola-Jones Face Detection | Détection de visage temps réel avec cascade Haar | OpenCV, dataset positif/négatif, évaluation |
-| Image denoising & inpainting | Restauration d'images par optimisation | Euler-Lagrange, gradient conjugué, BFGS/DFP, ROF |
+| SlayTheSpire RL | PPO agent learning combat decisions in Slay the Spire | RL, PPO, reward shaping, action masking |
+| CaptionCrafter | API and CLI for image analysis, OCR, caption generation and filters | FastAPI, Streamlit, OpenCV, Tesseract, Mistral |
+| GoPicasso | Painting robot interpreting SVG files and correcting its trajectory | Python, SVG parsing, graphs, control, GoPiGo |
+| Viola-Jones Face Detection | Real-time face detection with Haar cascade classifiers | OpenCV, positive/negative dataset, evaluation |
+| Image denoising & inpainting | Image restoration through optimization methods | Euler-Lagrange, conjugate gradient, BFGS/DFP, ROF |
 
-
-## GitHub
+<br>
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Armarit78&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armarit78&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:0A66C2,50:00A6A6,100:FF6B35" alt="Color separator" />
 </div>
-
----
-
-## Me contacter
-
-Je suis ouvert aux échanges pour un CDI à partir de novembre 2026, principalement sur des postes liés à :
-
-- intelligence artificielle appliquée ;
-- computer vision et systèmes intelligents ;
-- robotique et systèmes embarqués ;
-- backend IA, agents, RAG et industrialisation de prototypes.
-
-📩 **Email :** [guillaume.poret@student-cs.fr](mailto:guillaume.poret@student-cs.fr)  
-🔗 **LinkedIn :** [à compléter](https://www.linkedin.com/in/A_REMPLACER)
-
----
-
-## Hypothèses et éléments à compléter
-
-- Le nom d'utilisateur GitHub utilisé pour les statistiques est `Armarit78`, déduit du README de CaptionCrafter.
-- Le lien LinkedIn exact n'était pas présent dans les documents fournis.
-- Les liens directs vers les dépôts ne sont pas ajoutés pour éviter d'inventer des URLs. Ils peuvent être ajoutés dans les titres des projets une fois les dépôts publics confirmés.
