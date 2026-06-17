@@ -57,7 +57,7 @@ What I like building: concrete, testable and well-documented systems, with a rea
   <tr>
     <td width="50%" valign="top">
       <h3>Software engineering</h3>
-      <p>Python, C, C++, SQL, FastAPI, React, Vite, Docker, Git, Linux, tests, APIs, backend architecture, persistence and frontend/backend integration.</p>
+      <p>Python, C, C++, Assembly, VHDL, SQL, MATLAB, FastAPI, React, Vite, Docker, Git, Linux, tests, APIs, backend architecture, low-level register optimization, persistence and frontend/backend integration.</p>
     </td>
     <td width="50%" valign="top">
       <h3>Cloud & operations</h3>
@@ -70,6 +70,10 @@ What I like building: concrete, testable and well-documented systems, with a rea
   <img src="https://img.shields.io/badge/Python-0A66C2?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Assembly-525252?style=flat-square&logoColor=white" alt="Assembly" />
+  <img src="https://img.shields.io/badge/VHDL-6A5ACD?style=flat-square&logoColor=white" alt="VHDL" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=flat-square&logoColor=white" alt="MATLAB" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
