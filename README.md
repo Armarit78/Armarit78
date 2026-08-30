@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/guillaume-poret-b61412267/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-00A6A6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="./CV_2026-06-10_Guillaume_PORET_ENG.pdf">
+  <a href="./CV_2026-07-30_Guillaume_PORET.pdf">
     <img src="https://img.shields.io/badge/Resume-PDF-FF6B35?style=for-the-badge&logo=readme&logoColor=white" alt="Resume PDF" />
   </a>
 </p>
